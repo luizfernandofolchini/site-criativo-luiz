@@ -54,38 +54,53 @@
 }
 
 .estudantes-imagem {
-width: 35%;
+    width: 35%;
 }
 
 
-.estudantes-icone{
- width: 35px;
-
-}
-
-
-.estudantes-div{
-text-align:center;
-padding: 20px 20px;
-
-}
-
-.estudantes{
-background-color: #4EBFE9 ;
+.estudante-icone {
+    width: 35px;
 
 }
 
 
-.estudante-titulo{
-text-align:center;
-padding: 30px 0;
-font: size 32px;
-}
-
-.estudante-todos{
-display: grid;
-grid-template-columns: 25% 25% 25% 25%;
-
-
+.estudantes-div {
+    text-align: center;
+    padding: 20px 20px;
 
 }
+
+.estudantes {
+    background-color: #4EBFE9;
+
+}
+
+
+.estudante-titulo {
+    text-align: center;
+    padding: 30px 0;
+    font: size 32px;
+}
+
+.estudante-todos {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding: 24px;
+}
+
+.rodape{
+
+    text-align: center;
+}
+
+.rodape-image{
+
+    width: 20%;
+}
+
+.rodape-texto{
+
+font-size: 32px;
+
+}
+
